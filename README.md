@@ -103,6 +103,7 @@
 ## Data Comparison
 
 - [datacompy](https://github.com/capitalone/datacompy) - A Python library that facilitates the comparison of two DataFrames in Pandas, Polars, Spark and more. The library goes beyond basic equality checks by providing detailed insights into discrepancies at both row and column levels.
+- [dvt](https://github.com/GoogleCloudPlatform/professional-services-data-validator) - Data Validation Tool compares data from source and target tables to ensure that they match. It provides column validation, row validation, schema validation, custom query validation, and ad hoc SQL exploration.
 
 ## Data Ingestion
 
